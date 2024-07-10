@@ -1,7 +1,7 @@
 ### Overview
 
 A web application developed in Svelte, focusing on user registration and session management.
-[URL]https://svelte-test-bay-eight.vercel.app/signup
+[URL]https://svelte-test-bay-eight.vercel.app
 
 ### Features
 
